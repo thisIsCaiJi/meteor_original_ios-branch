@@ -1,0 +1,1684 @@
+{
+  "ItemData": {
+    "1000": {
+      "Idx": 1000,
+      "Name": "银两",
+      "MainType": 0,
+      "SubType": 0,
+      "UnitId": 0,
+      "Damage": 0,
+      "Def": 0,
+      "Speed": 0
+    },
+    "1001": {
+      "Idx": 1001,
+      "Name": "经验",
+      "MainType": 0,
+      "SubType": 0,
+      "UnitId": 0,
+      "Damage": 0,
+      "Def": 0,
+      "Speed": 0
+    },
+    "1": {
+      "Idx": 1,
+      "Name": "七星",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 1,
+      "Damage": 75,
+      "Def": 15,
+      "Speed": 100
+    },
+    "10": {
+      "Idx": 10,
+      "Name": "青牙",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 2,
+      "Damage": 90,
+      "Def": 0,
+      "Speed": 90
+    },
+    "19": {
+      "Idx": 19,
+      "Name": "寒冰",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 3,
+      "Damage": 60,
+      "Def": 30,
+      "Speed": 90
+    },
+    "28": {
+      "Idx": 28,
+      "Name": "飞蝠",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 4,
+      "Damage": 66,
+      "Def": 7,
+      "Speed": 120
+    },
+    "37": {
+      "Idx": 37,
+      "Name": "雪球",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 5,
+      "Damage": 112,
+      "Def": 50,
+      "Speed": 110
+    },
+    "46": {
+      "Idx": 46,
+      "Name": "鈴鐺",
+      "MainType": 1,
+      "SubType": 3,
+      "UnitId": 6,
+      "Damage": 112,
+      "Def": 50,
+      "Speed": 110
+    },
+    "2": {
+      "Idx": 2,
+      "Name": "旋风",
+      "MainType": 1,
+      "SubType": 6,
+      "UnitId": 61,
+      "Damage": 70,
+      "Def": 15,
+      "Speed": 100
+    },
+    "11": {
+      "Idx": 11,
+      "Name": "血滴",
+      "MainType": 1,
+      "SubType": 6,
+      "UnitId": 62,
+      "Damage": 83,
+      "Def": 0,
+      "Speed": 90
+    },
+    "20": {
+      "Idx": 20,
+      "Name": "日光",
+      "MainType": 1,
+      "SubType": 6,
+      "UnitId": 63,
+      "Damage": 56,
+      "Def": 30,
+      "Speed": 90
+    },
+    "29": {
+      "Idx": 29,
+      "Name": "圆月",
+      "MainType": 1,
+      "SubType": 6,
+      "UnitId": 64,
+      "Damage": 61,
+      "Def": 7,
+      "Speed": 120
+    },
+    "38": {
+      "Idx": 38,
+      "Name": "飞碟",
+      "MainType": 1,
+      "SubType": 6,
+      "UnitId": 65,
+      "Damage": 105,
+      "Def": 50,
+      "Speed": 101
+    },
+    "3": {
+      "Idx": 3,
+      "Name": "怒火",
+      "MainType": 1,
+      "SubType": 2,
+      "UnitId": 121,
+      "Damage": 85,
+      "Def": 15,
+      "Speed": 100
+    },
+    "12": {
+      "Idx": 12,
+      "Name": "蛟龙",
+      "MainType": 1,
+      "SubType": 2,
+      "UnitId": 122,
+      "Damage": 96,
+      "Def": 0,
+      "Speed": 90
+    },
+    "21": {
+      "Idx": 21,
+      "Name": "夺命",
+      "MainType": 1,
+      "SubType": 2,
+      "UnitId": 123,
+      "Damage": 63,
+      "Def": 30,
+      "Speed": 90
+    },
+    "30": {
+      "Idx": 30,
+      "Name": "杀意",
+      "MainType": 1,
+      "SubType": 2,
+      "UnitId": 124,
+      "Damage": 70,
+      "Def": 7,
+      "Speed": 120
+    },
+    "39": {
+      "Idx": 39,
+      "Name": "拉炮",
+      "MainType": 1,
+      "SubType": 2,
+      "UnitId": 125,
+      "Damage": 120,
+      "Def": 50,
+      "Speed": 110
+    },
+    "4": {
+      "Idx": 4,
+      "Name": "峨嵋",
+      "MainType": 1,
+      "SubType": 8,
+      "UnitId": 181,
+      "Damage": 85,
+      "Def": 15,
+      "Speed": 100
+    },
+    "13": {
+      "Idx": 13,
+      "Name": "刃牙",
+      "MainType": 1,
+      "SubType": 8,
+      "UnitId": 182,
+      "Damage": 102,
+      "Def": 0,
+      "Speed": 90
+    },
+    "22": {
+      "Idx": 22,
+      "Name": "火舌",
+      "MainType": 1,
+      "SubType": 8,
+      "UnitId": 183,
+      "Damage": 67,
+      "Def": 30,
+      "Speed": 90
+    },
+    "31": {
+      "Idx": 31,
+      "Name": "虎爪",
+      "MainType": 1,
+      "SubType": 8,
+      "UnitId": 184,
+      "Damage": 74,
+      "Def": 7,
+      "Speed": 120
+    },
+    "40": {
+      "Idx": 40,
+      "Name": "星星",
+      "MainType": 1,
+      "SubType": 8,
+      "UnitId": 185,
+      "Damage": 127,
+      "Def": 50,
+      "Speed": 110
+    },
+    "5": {
+      "Idx": 5,
+      "Name": "蛇吻",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 241,
+      "Damage": 90,
+      "Def": 15,
+      "Speed": 100
+    },
+    "14": {
+      "Idx": 14,
+      "Name": "噬魂",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 242,
+      "Damage": 108,
+      "Def": 0,
+      "Speed": 90
+    },
+    "23": {
+      "Idx": 23,
+      "Name": "金刚",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 243,
+      "Damage": 71,
+      "Def": 30,
+      "Speed": 90
+    },
+    "32": {
+      "Idx": 32,
+      "Name": "炎玉",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 244,
+      "Damage": 78,
+      "Def": 7,
+      "Speed": 120
+    },
+    "41": {
+      "Idx": 41,
+      "Name": "拐杖糖",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 245,
+      "Damage": 135,
+      "Def": 50,
+      "Speed": 110
+    },
+    "246": {
+      "Idx": 246,
+      "Name": "焰莲",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 246,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 0
+    },
+    "247": {
+      "Idx": 247,
+      "Name": "钝齿",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 247,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "248": {
+      "Idx": 248,
+      "Name": "寒铁",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 248,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "249": {
+      "Idx": 249,
+      "Name": "锋芒",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 249,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "250": {
+      "Idx": 250,
+      "Name": "锋刃",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 250,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "251": {
+      "Idx": 251,
+      "Name": "黑铁",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 251,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "252": {
+      "Idx": 252,
+      "Name": "金钥匙",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 252,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "253": {
+      "Idx": 253,
+      "Name": "冷月",
+      "MainType": 1,
+      "SubType": 1,
+      "UnitId": 253,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "6": {
+      "Idx": 6,
+      "Name": "碧血剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 301,
+      "Damage": 110,
+      "Def": 15,
+      "Speed": 100
+    },
+    "15": {
+      "Idx": 15,
+      "Name": "修罗剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 302,
+      "Damage": 133,
+      "Def": 0,
+      "Speed": 90
+    },
+    "24": {
+      "Idx": 24,
+      "Name": "焰魔剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 303,
+      "Damage": 86,
+      "Def": 30,
+      "Speed": 90
+    },
+    "33": {
+      "Idx": 33,
+      "Name": "龙吟剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 304,
+      "Damage": 95,
+      "Def": 7,
+      "Speed": 120
+    },
+    "42": {
+      "Idx": 42,
+      "Name": "仙女棒",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 305,
+      "Damage": 165,
+      "Def": 50,
+      "Speed": 110
+    },
+    "306": {
+      "Idx": 306,
+      "Name": "裴旻剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 306,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "307": {
+      "Idx": 307,
+      "Name": "辟邪",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 307,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "308": {
+      "Idx": 308,
+      "Name": "太极",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 308,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "309": {
+      "Idx": 309,
+      "Name": "凝碧",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 309,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "310": {
+      "Idx": 310,
+      "Name": "凝霞",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 310,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "311": {
+      "Idx": 311,
+      "Name": "凝青",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 311,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "312": {
+      "Idx": 312,
+      "Name": "凝霜",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 312,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "313": {
+      "Idx": 313,
+      "Name": "漠白",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 313,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "314": {
+      "Idx": 314,
+      "Name": "霜白",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 314,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "315": {
+      "Idx": 315,
+      "Name": "桃木",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 315,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "316": {
+      "Idx": 316,
+      "Name": "太极",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 316,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "317": {
+      "Idx": 317,
+      "Name": "百炼",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 317,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "318": {
+      "Idx": 318,
+      "Name": "蓝剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 318,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "319": {
+      "Idx": 319,
+      "Name": "龙蝎",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 319,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "320": {
+      "Idx": 320,
+      "Name": "龙形剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 320,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "321": {
+      "Idx": 321,
+      "Name": "湛卢",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 321,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "322": {
+      "Idx": 322,
+      "Name": "红剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 322,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "323": {
+      "Idx": 323,
+      "Name": "金翎剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 323,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "324": {
+      "Idx": 324,
+      "Name": "雷刺",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 324,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "325": {
+      "Idx": 325,
+      "Name": "青虹",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 325,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "326": {
+      "Idx": 326,
+      "Name": "青锋",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 326,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "327": {
+      "Idx": 327,
+      "Name": "七星",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 327,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "328": {
+      "Idx": 328,
+      "Name": "承影",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 328,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "329": {
+      "Idx": 329,
+      "Name": "王者之剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 329,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "330": {
+      "Idx": 330,
+      "Name": "石中剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 330,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "331": {
+      "Idx": 331,
+      "Name": "剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 331,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "332": {
+      "Idx": 332,
+      "Name": "星芒",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 332,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "333": {
+      "Idx": 333,
+      "Name": "阴阳剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 333,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "334": {
+      "Idx": 334,
+      "Name": "紫霄",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 334,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "335": {
+      "Idx": 335,
+      "Name": "松纹",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 335,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "336": {
+      "Idx": 336,
+      "Name": "青钢剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 336,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "337": {
+      "Idx": 337,
+      "Name": "魔剑",
+      "MainType": 1,
+      "SubType": 0,
+      "UnitId": 337,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "7": {
+      "Idx": 7,
+      "Name": "战戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 361,
+      "Damage": 115,
+      "Def": 15,
+      "Speed": 100
+    },
+    "16": {
+      "Idx": 16,
+      "Name": "偃月",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 362,
+      "Damage": 140,
+      "Def": 0,
+      "Speed": 90
+    },
+    "25": {
+      "Idx": 25,
+      "Name": "七煞",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 363,
+      "Damage": 90,
+      "Def": 30,
+      "Speed": 90
+    },
+    "34": {
+      "Idx": 34,
+      "Name": "蝎毒",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 364,
+      "Damage": 100,
+      "Def": 7,
+      "Speed": 120
+    },
+    "43": {
+      "Idx": 43,
+      "Name": "雪地铲",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 365,
+      "Damage": 172,
+      "Def": 50,
+      "Speed": 110
+    },
+    "366": {
+      "Idx": 366,
+      "Name": "长枪-炽血",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 366,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "367": {
+      "Idx": 367,
+      "Name": "斩马",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 367,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "368": {
+      "Idx": 368,
+      "Name": "方天画戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 368,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "369": {
+      "Idx": 369,
+      "Name": "战缨",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 369,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "370": {
+      "Idx": 370,
+      "Name": "火云三尖枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 370,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "371": {
+      "Idx": 371,
+      "Name": "战魂",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 371,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "372": {
+      "Idx": 372,
+      "Name": "冰魄三尖枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 372,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "373": {
+      "Idx": 373,
+      "Name": "红枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 373,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "374": {
+      "Idx": 374,
+      "Name": "蓝钢",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 374,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "375": {
+      "Idx": 375,
+      "Name": "湛铁",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 375,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "376": {
+      "Idx": 376,
+      "Name": "朱缨枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 376,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "377": {
+      "Idx": 377,
+      "Name": "龙胆亮银枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 377,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "378": {
+      "Idx": 378,
+      "Name": "三叉戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 378,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "379": {
+      "Idx": 379,
+      "Name": "亮银塑",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 379,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "380": {
+      "Idx": 380,
+      "Name": "地火玄卢枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 380,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "381": {
+      "Idx": 381,
+      "Name": "佛母紫金枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 381,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "382": {
+      "Idx": 382,
+      "Name": "死亡钩镰",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 382,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "383": {
+      "Idx": 383,
+      "Name": "冰封",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 383,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "384": {
+      "Idx": 384,
+      "Name": "横斩",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 384,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "385": {
+      "Idx": 385,
+      "Name": "沥泉",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 385,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "386": {
+      "Idx": 386,
+      "Name": "飞鱼斩",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 386,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "387": {
+      "Idx": 387,
+      "Name": "青龙斩",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 387,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "388": {
+      "Idx": 388,
+      "Name": "雁翎枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 388,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "389": {
+      "Idx": 389,
+      "Name": "火焰钩镰枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 389,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "390": {
+      "Idx": 390,
+      "Name": "黄龙斩",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 390,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "391": {
+      "Idx": 391,
+      "Name": "朴刀",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 391,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "392": {
+      "Idx": 392,
+      "Name": "青锋斩",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 392,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "393": {
+      "Idx": 393,
+      "Name": "凤翅镏金镋",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 393,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "394": {
+      "Idx": 394,
+      "Name": "天命战戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 394,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "395": {
+      "Idx": 395,
+      "Name": "化龙擎天戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 395,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "396": {
+      "Idx": 396,
+      "Name": "天龙破城戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 396,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "397": {
+      "Idx": 397,
+      "Name": "双铁戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 397,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "398": {
+      "Idx": 398,
+      "Name": "五钩神飞枪",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 398,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "399": {
+      "Idx": 399,
+      "Name": "亮银三叉戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 399,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "400": {
+      "Idx": 400,
+      "Name": "双月锁金戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 400,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "401": {
+      "Idx": 401,
+      "Name": "铁戈",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 401,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "402": {
+      "Idx": 402,
+      "Name": "黑铁斧戟",
+      "MainType": 1,
+      "SubType": 7,
+      "UnitId": 402,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "8": {
+      "Idx": 8,
+      "Name": "斩铁",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 421,
+      "Damage": 130,
+      "Def": 15,
+      "Speed": 100
+    },
+    "17": {
+      "Idx": 17,
+      "Name": "紫鳞",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 422,
+      "Damage": 158,
+      "Def": 0,
+      "Speed": 90
+    },
+    "26": {
+      "Idx": 26,
+      "Name": "狂怒",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 423,
+      "Damage": 101,
+      "Def": 30,
+      "Speed": 90
+    },
+    "35": {
+      "Idx": 35,
+      "Name": "逆刃",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 424,
+      "Damage": 117,
+      "Def": 7,
+      "Speed": 120
+    },
+    "44": {
+      "Idx": 44,
+      "Name": "抓扒子",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 425,
+      "Damage": 195,
+      "Def": 50,
+      "Speed": 110
+    },
+    "426": {
+      "Idx": 426,
+      "Name": "枯骨",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 426,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "427": {
+      "Idx": 427,
+      "Name": "鬼头刀",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 427,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "428": {
+      "Idx": 428,
+      "Name": "骨刺",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 428,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "429": {
+      "Idx": 429,
+      "Name": "破魂",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 429,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "430": {
+      "Idx": 430,
+      "Name": "破炎",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 430,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "431": {
+      "Idx": 431,
+      "Name": "破刃",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 431,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "432": {
+      "Idx": 432,
+      "Name": "破翎",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 432,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "433": {
+      "Idx": 433,
+      "Name": "寒霜",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 433,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "434": {
+      "Idx": 434,
+      "Name": "寒银",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 434,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "435": {
+      "Idx": 435,
+      "Name": "劈水",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 435,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "436": {
+      "Idx": 436,
+      "Name": "劈山",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 436,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "437": {
+      "Idx": 437,
+      "Name": "伏羲巨剑",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 437,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "438": {
+      "Idx": 438,
+      "Name": "寒冰斩",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 438,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "439": {
+      "Idx": 439,
+      "Name": "虎骨刀",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 439,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "440": {
+      "Idx": 440,
+      "Name": "金丝大环刀",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 440,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "441": {
+      "Idx": 441,
+      "Name": "逆鳞",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 441,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "442": {
+      "Idx": 442,
+      "Name": "睚眦",
+      "MainType": 1,
+      "SubType": 5,
+      "UnitId": 442,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "9": {
+      "Idx": 9,
+      "Name": "流星",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 481,
+      "Damage": 140,
+      "Def": 15,
+      "Speed": 100
+    },
+    "18": {
+      "Idx": 18,
+      "Name": "破山",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 482,
+      "Damage": 171,
+      "Def": 0,
+      "Speed": 90
+    },
+    "27": {
+      "Idx": 27,
+      "Name": "地动",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 483,
+      "Damage": 108,
+      "Def": 30,
+      "Speed": 90
+    },
+    "36": {
+      "Idx": 36,
+      "Name": "狼牙",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 484,
+      "Damage": 121,
+      "Def": 7,
+      "Speed": 120
+    },
+    "45": {
+      "Idx": 45,
+      "Name": "棒棒糖",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 485,
+      "Damage": 210,
+      "Def": 50,
+      "Speed": 110
+    },
+    "486": {
+      "Idx": 486,
+      "Name": "雷神",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 486,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "487": {
+      "Idx": 487,
+      "Name": "巨影",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 487,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "488": {
+      "Idx": 488,
+      "Name": "金刚",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 488,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "489": {
+      "Idx": 489,
+      "Name": "碎石",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 489,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "490": {
+      "Idx": 490,
+      "Name": "莲花法锤",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 490,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "491": {
+      "Idx": 491,
+      "Name": "巨锥",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 491,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "492": {
+      "Idx": 492,
+      "Name": "浑金",
+      "MainType": 1,
+      "SubType": 4,
+      "UnitId": 492,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "47": {
+      "Idx": 47,
+      "Name": "乾坤刀A",
+      "MainType": 1,
+      "SubType": 9,
+      "UnitId": 541,
+      "Damage": 112,
+      "Def": 15,
+      "Speed": 100
+    },
+    "48": {
+      "Idx": 48,
+      "Name": "乾坤刀B",
+      "MainType": 1,
+      "SubType": 9,
+      "UnitId": 542,
+      "Damage": 135,
+      "Def": 0,
+      "Speed": 90
+    },
+    "49": {
+      "Idx": 49,
+      "Name": "乾坤刀C",
+      "MainType": 1,
+      "SubType": 9,
+      "UnitId": 543,
+      "Damage": 88,
+      "Def": 30,
+      "Speed": 90
+    },
+    "50": {
+      "Idx": 50,
+      "Name": "乾坤刀D",
+      "MainType": 1,
+      "SubType": 9,
+      "UnitId": 544,
+      "Damage": 98,
+      "Def": 7,
+      "Speed": 120
+    },
+    "545": {
+      "Idx": 545,
+      "Name": "霓凰乾坤刀",
+      "MainType": 1,
+      "SubType": 9,
+      "UnitId": 545,
+      "Damage": 150,
+      "Def": 15,
+      "Speed": 100
+    },
+    "51": {
+      "Idx": 51,
+      "Name": "指虎",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 601,
+      "Damage": 87,
+      "Def": 15,
+      "Speed": 100
+    },
+    "52": {
+      "Idx": 52,
+      "Name": "指虎",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 602,
+      "Damage": 98,
+      "Def": 0,
+      "Speed": 90
+    },
+    "53": {
+      "Idx": 53,
+      "Name": "指虎",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 603,
+      "Damage": 65,
+      "Def": 30,
+      "Speed": 90
+    },
+    "54": {
+      "Idx": 54,
+      "Name": "指虎",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 604,
+      "Damage": 72,
+      "Def": 7,
+      "Speed": 120
+    },
+    "605": {
+      "Idx": 605,
+      "Name": "折骨双扇",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 605,
+      "Damage": 120,
+      "Def": 18,
+      "Speed": 100
+    },
+    "606": {
+      "Idx": 606,
+      "Name": "拳盾",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 606,
+      "Damage": 120,
+      "Def": 25,
+      "Speed": 100
+    },
+    "607": {
+      "Idx": 607,
+      "Name": "刃爪",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 607,
+      "Damage": 145,
+      "Def": 15,
+      "Speed": 100
+    },
+    "608": {
+      "Idx": 608,
+      "Name": "虎爪",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 608,
+      "Damage": 100,
+      "Def": 15,
+      "Speed": 100
+    },
+    "55": {
+      "Idx": 55,
+      "Name": "忍者刀",
+      "MainType": 1,
+      "SubType": 11,
+      "UnitId": 661,
+      "Damage": 100,
+      "Def": 15,
+      "Speed": 100
+    },
+    "56": {
+      "Idx": 56,
+      "Name": "忍者刀",
+      "MainType": 1,
+      "SubType": 11,
+      "UnitId": 662,
+      "Damage": 120,
+      "Def": 15,
+      "Speed": 90
+    },
+    "57": {
+      "Idx": 57,
+      "Name": "忍者刀",
+      "MainType": 1,
+      "SubType": 11,
+      "UnitId": 663,
+      "Damage": 80,
+      "Def": 30,
+      "Speed": 90
+    },
+    "58": {
+      "Idx": 58,
+      "Name": "忍者刀",
+      "MainType": 1,
+      "SubType": 11,
+      "UnitId": 664,
+      "Damage": 90,
+      "Def": 7,
+      "Speed": 120
+    },
+    "665": {
+      "Idx": 665,
+      "Name": "剔骨",
+      "MainType": 1,
+      "SubType": 11,
+      "UnitId": 665,
+      "Damage": 120,
+      "Def": 30,
+      "Speed": 120
+    },
+    "609": {
+      "Idx": 609,
+      "Name": "空手",
+      "MainType": 1,
+      "SubType": 10,
+      "UnitId": 609,
+      "Damage": 80,
+      "Def": 30,
+      "Speed": 120
+    }
+  }
+}

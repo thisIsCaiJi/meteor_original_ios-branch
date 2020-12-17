@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="meteor_original_ios.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resource\Script\Resources\npc05_02.txt">
+    <Files>
+      <File FileName="Assets\Meteor\U3D.cs" Line="1" Column="1" />
+      <File FileName="Assets\LinkLabel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Meteor\ClientProxy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Meteor\LevelScript\LevelScriptBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Window\FightWnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\table\LevelMng.cs" Line="1" Column="1" />
+      <File FileName="Assets\Meteor\MeteorUnit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Meteor\MeteorController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Global.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resource\Script\Resources\npc05_02.txt" Line="30" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
