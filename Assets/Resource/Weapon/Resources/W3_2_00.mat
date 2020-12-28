@@ -4,43 +4,38 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: W3_2_00
-  m_Shader: {fileID: 4800000, guid: 86d6ddf56fc58eb4cbbb6dc442aa8f09, type: 3}
+  m_Shader: {fileID: 4800000, guid: ef621c64e7b2bba4ead3fdfbdaf32cde, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
+  disabledShaderPasses: []
   m_SavedProperties:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TexEnvs:
-    - first:
-        name: <noninit>
-      second:
+    - <noninit>:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _MainTex
-      second:
-        m_Texture: {fileID: 2800000, guid: 72d809784ec1f3c4a9d3f0ebfd2cb7ee, type: 3}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f9673a0197f5003409b0e31910ca9bd0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - first:
-        name: _MaskTex
-      second:
+    - _MaskTex:
         m_Texture: {fileID: 2800000, guid: c79e08185cac4f340ad0ad7cca2ca4ba, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - first:
-        name: <noninit>
-      second: 0
+    - <noninit>: 0
+    - _Alpha: 1
     m_Colors:
-    - first:
-        name: <noninit>
-      second: {r: 0, g: 1.702939e+10, b: 0, a: 1.7029325e+10}
-    - first:
-        name: _Color
-      second: {r: 1, g: 1, b: 1, a: 1}
+    - <noninit>: {r: 0, g: 1.702939e+10, b: 0, a: 1.7029325e+10}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
